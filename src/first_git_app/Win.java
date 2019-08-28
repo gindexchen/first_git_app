@@ -7,8 +7,10 @@ public class Win {
 		
 		System.out.println(System.nanoTime());
 		
-		int a;
-		int b;
+		int a = 3;
+		int b = 4;
+		double c = Math.sqrt(a*a+b*b);
+		
 		System.out.println("use git manage the project");
 		
 	}
