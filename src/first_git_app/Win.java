@@ -9,8 +9,6 @@ public class Win {
 		
 		int a;
 		int b;
-		a=2;
-		b=4;
 		System.out.println("use git manage the project");
 		
 	}
