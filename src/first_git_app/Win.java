@@ -11,6 +11,7 @@ public class Win {
 		int b = 4;
 		double c = Math.sqrt(a*a+b*b);
 		
+		double d = Math.exp(c);
 		System.out.println("use git manage the project");
 		
 	}
